@@ -9,6 +9,7 @@ public class CapbookStoreApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CapbookStoreApplication.class, args);
 		System.out.println("Message from Abhinav Warney");
+		System.out.println("message from sayan");
 	}
 
 }
